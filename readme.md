@@ -2,21 +2,21 @@ ARDUINO MATRIX GAME
 
 --- Bit Race ---
 
----- Used components ---
+---- Used components ---<br>
   Arduino Uno  <br>
-  Arduino USB cable
-  Wires
-  8x8 LED matrix (1088AS)
-  DRIVER MAX7219
-  16x2 LCD Display
-  100k ohm resistor
-  220 ohm resistor
-  1 button
-  Potentiometer
-  Ultrasonic sensor
-  3 breadboards
-  condenser 0.1 uF (100 nF)
-  condenser 10 uF
+  Arduino USB cable<br>
+  Wires<br>
+  8x8 LED matrix (1088AS)<br>
+  DRIVER MAX7219<br>
+  16x2 LCD Display<br>
+  100k ohm resistor<br>
+  220 ohm resistor<br>
+  1 button<br>
+  Potentiometer<br>
+  Ultrasonic sensor<br>
+  3 breadboards<br>
+  condenser 0.1 uF (100 nF)<br>
+  condenser 10 uF<br>
   
 ---- How to play ----
   At first you will see the map on an 8x8 matrix and a dot which is representing your car. On an LCD Display there will be a message "Press Start". In order to start the game, you must press the single button you have on the big breadboard. After you have pressed the button, the game will start slowly and it will increase in difficulty over time. Everytime you die, you will lose a life. After you have died, you can position your car in a spot being invincible and you need to press again the same button in order to resume the game.
