@@ -3,7 +3,7 @@ ARDUINO MATRIX GAME
 --- Bit Race ---
 
 ---- Used components ---
-  Arduino Uno
+  Arduino Uno  <br>
   Arduino USB cable
   Wires
   8x8 LED matrix (1088AS)
